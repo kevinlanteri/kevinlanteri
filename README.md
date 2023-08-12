@@ -15,7 +15,6 @@ In addition to my development skills, I am also a graphic designer and currently
 
 ### Notable Projects
 - **MBForm**: A customizable data collection software.
-- **EarlyTrack** (coming in 2024): Stay tuned for more information!
 
 ### Find Me Online
 Update coming soon...
